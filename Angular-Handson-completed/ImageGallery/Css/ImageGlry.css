@@ -1,0 +1,28 @@
+img
+{
+    width: 100%;
+    align-content: center;
+}
+button
+{
+    width: 180Px;
+    height: 50px;
+    align-content: center;
+    text-decoration: solid;
+    background-color: crimson;
+    text-decoration-color: black;
+    
+}
+
+img
+{
+    height: 200px;
+    width: 500px;
+    margin: 0%;
+    padding: 0%;
+}   
+.imgGallery
+{
+    display: none;
+}
+
